@@ -6,7 +6,7 @@ import json
 
 app = Flask(__name__, static_url_path='')
 
-db_name = 'mydb'
+db_name = 'acarrerav-db'
 client = None
 db = None
 
